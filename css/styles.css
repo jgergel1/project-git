@@ -1,17 +1,26 @@
 body {
     font-family : "Noteworthy"
+
 }
 
 h1, h2 {
-    font-family : "SignPainter"
- 
+    font-family : "SignPainter";
 }
 
 .jumbotron {
-    padding: 30px;
-    background-image: linear-gradient(to right, #7da7ca, #3046C5, #76d1d8);
-    color: white;
+    padding: 0px;
+    color:  black;
     margin: 0;
-    
+    text-align: center;
+    border: solid 
 }
+
+.row-content {
+    padding: 50px 0;
+    border-bottom: 1px ridge;
+    min-height: 200px;
+
+}
+
+
 
